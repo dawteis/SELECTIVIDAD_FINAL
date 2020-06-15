@@ -1,0 +1,10 @@
+Tenéis aquí los ficheros correspondientes al ejercicio de la selectividad
+En el enunciado_algoritmo está descrito el enunciado y el algoritmo
+En el festudiantes hay un conjunto de datos para pdoer procesar (hay 200 estudiantes)
+En el fcarreras están los códigos y el número de plazas de 60 carreras
+El fichero fasignaciones es el resultado que debería dar el programa está ordenado por dni
+y hay tres ficheros .java con el código necesario para procesar
+por ultimo el fichero opciones múltiples expone como se solucionaría para 
+el caso en el que cada estudiante pudiera poner muchas opciones
+esto es algo que se da en muchos procesos de la vida real 
+cuando se eligen entre n posibilidades 
